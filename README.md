@@ -34,4 +34,4 @@
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cyberTechA&count_private=true&show_icons=true&include_all_commits=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberTechA&hide=TeX&layout=compact)
