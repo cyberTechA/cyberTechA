@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">A Cyber Security Students in University of Naples Federico II</h3>
+<h3 align="center">A Cyber Security Student in University of Naples Federico II</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-alberto_urraro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alberto-urraro-2b215a195/)](https://www.linkedin.com/in/alberto-urraro-2b215a195/)
 [![Gmail Badge](https://img.shields.io/badge/-alberto.urraro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alberto.urraro@gmail.com)](mailto:alberto.urraro@gmail.com)
