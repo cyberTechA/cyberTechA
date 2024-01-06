@@ -28,10 +28,13 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cyberTechA&count_private=true&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberTechA&hide_progress=true)](https://github.com/cyberTechA/github-readme-stats)
+
